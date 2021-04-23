@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **andreamussap/andreamussap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Languages & Tools 🛠 
+
+Google Analytics, Hotjar, Markdown, VS Code, Jira, Confluence
+
+![GitHub](https://img.shields.io/github/followers/andreamussap?style=social)
+
+
+
