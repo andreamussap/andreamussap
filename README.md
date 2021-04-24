@@ -6,15 +6,10 @@ I'm a Technical Writer :books: :pencil2: and Data Analyst :bar_chart: :chart_wit
 
 I'm a driven and curious 💡 🔎 person, so learning new tools and technologies motivates me, and I aim to apply these learnings to my daily routine.
 
---- 
 
-I love opensource, and I've proudly joined 
+## Find me 📫
 
-
-
-## Find me
-
-I you can also find me on the following channels:
+You can also find me on the following channels:
 
 ![Linkedin](https://img.shields.io/badge/andreamussap-0077B5?style=flat&logo=Linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/twitter/follow/andreamussap?style=social)
@@ -22,35 +17,47 @@ I you can also find me on the following channels:
 
 ## Languages & Tools 🛠 
 
-:white_check_mark:  Google Analytics
+![](https://img.shields.io/badge/Analytics-Google%20Analytics-yellow)
 
-:white_check_mark: Hotjar
+![https://www.hotjar.com/](https://img.shields.io/badge/Analytics-Hotjar-red)
 
-:white_check_mark: Markdown
+![Tableau](https://img.shields.io/badge/Analytics-Tableau-blue)
 
-:white_check_mark: Visual Studio Code
+![https://www.mysql.com/](https://img.shields.io/badge/Analytics-MySQL-orange)
 
-:white_check_mark: Jira
+![https://pandas.pydata.org/](https://img.shields.io/badge/Analytics-pandas-002b80)
 
-:white_check_mark: Confluence
+![Markdown](https://img.shields.io/badge/Code-Markdown-white)
 
-:white_check_mark: Camtasia
+![https://code.visualstudio.com/](https://img.shields.io/badge/Code-VS%20Code-blue)
 
---- 
+![https://www.atlassian.com/software/jira](https://img.shields.io/badge/Tracking-Jira-blue)
+
+![https://www.techsmith.com/tutorial-camtasia.html](https://img.shields.io/badge/Video-Camtasia-green)
+
+_Tableau, SQL, pandas - used in study projects._
+
+
+## GitHub stats
+
+![](https://github-readme-stats.vercel.app/api?username=andreamussap&show_icons=true&theme=radical)
+
+## Volunteering
+
+I've always contributed to a variety of volunteer projects, both technical and non-technical. There are many advantages of being a volunteer: contribute your knowledge and learn from peers, give back to the community, help others, having purpose and feeling valued.
+
+These are some of the projects, which I volunteer to:
+
+|[Hacktoberfest](https://hacktoberfest.digitalocean.com/)|[TED Translator](https://www.ted.com/profiles/2458319/translator)|[Parkrun IE](https://www.parkrun.ie/)|
+|--|--|--|
+|![Hacktoberfest](/resources/hacktoberfestlogo2019_300px.png)|![TED](/resources/TEDtalkLogo300x.png)|![parkrun](/resources/parkrun300px.jpeg) |
 
 
 
 <!--
 **andreamussap/andreamussap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
