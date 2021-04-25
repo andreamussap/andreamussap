@@ -11,9 +11,9 @@ I'm a driven and curious 💡 🔎 person, so learning new tools and technologie
 
 You can also find me on the following channels:
 
-<a href="https://www.linkedin.com/in/andreamussap/" target="_blank"><img src="https://img.shields.io/badge/andreamussap-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/andreamussap" target="_blank"><img src="hhttps://img.shields.io/twitter/follow/andreamussap?style=social)"/></a>
-<a href="https://www.goodreads.com/andreamussap" target="_blank"><img src="https://img.shields.io/badge/GoodReads-andreamussap-yellowgreen"/></a>
+<a href="https://www.linkedin.com/in/andreamussap/"><img src="https://img.shields.io/badge/andreamussap-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/andreamussap"><img src="hhttps://img.shields.io/twitter/follow/andreamussap?style=social)"/></a>
+<a href="https://www.goodreads.com/andreamussap"><img src="https://img.shields.io/badge/GoodReads-andreamussap-yellowgreen"/></a>
 
 ## Languages & Tools 🛠 
 
@@ -48,7 +48,7 @@ I've always contributed to a variety of volunteer projects, both technical and n
 
 These are some of the projects, which I volunteer to:
 
-|<a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>|[TED Translator](https://www.ted.com/profiles/2458319/translator)|[Parkrun IE](https://www.parkrun.ie/)|
+|[Hacktoberfest](https://www.linkedin.com/pulse/hacktoberfest-2020-main-takeaway-andrea-mussap/)|[TED Translator](https://www.ted.com/profiles/2458319/translator)|[Parkrun IE](https://www.parkrun.ie/)|
 |--|--|--|
 |![Hacktoberfest](/resources/hacktoberfestlogo2019_300px.png)|![TED](/resources/TEDtalkLogo300x.png)|![parkrun](/resources/parkrun300px.jpeg) |
 
