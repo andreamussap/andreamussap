@@ -11,29 +11,29 @@ I'm a driven and curious 💡 🔎 person, so learning new tools and technologie
 
 You can also find me on the following channels:
 
-![Linkedin](https://img.shields.io/badge/andreamussap-0077B5?style=flat&logo=Linkedin&logoColor=white)
-![Twitter](https://img.shields.io/twitter/follow/andreamussap?style=social)
-![https://www.goodreads.com/andreamussap](https://img.shields.io/badge/GoodReads-andreamussap-yellowgreen)
+<a href="https://www.linkedin.com/in/andreamussap/"><img src="https://img.shields.io/badge/andreamussap-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/andreamussap"><img src="hhttps://img.shields.io/twitter/follow/andreamussap?style=social)"/></a>
+<a href="https://www.goodreads.com/andreamussap"><img src="https://img.shields.io/badge/GoodReads-andreamussap-yellowgreen"/></a>
 
 ## Languages & Tools 🛠 
 
 ![](https://img.shields.io/badge/Analytics-Google%20Analytics-yellow)
 
-![https://www.hotjar.com/](https://img.shields.io/badge/Analytics-Hotjar-red)
+<a href="https://www.hotjar.com/"><img src="https://img.shields.io/badge/Analytics-Hotjar-red"></a>
 
-![Tableau](https://img.shields.io/badge/Analytics-Tableau-blue)
+<a href="https://public.tableau.com/profile/andrea.mussap#!/"><img src="https://img.shields.io/badge/Analytics-Tableau-blue"></a>
 
-![https://www.mysql.com/](https://img.shields.io/badge/Analytics-MySQL-orange)
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Analytics-MySQL-orange"></a>
 
-![https://pandas.pydata.org/](https://img.shields.io/badge/Analytics-pandas-002b80)
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Analytics-pandas-002b80"></a>
 
-![Markdown](https://img.shields.io/badge/Code-Markdown-white)
+<a href="https://github.com/DavidAnson/vscode-markdownlint"><img src="https://img.shields.io/badge/Code-Markdown-white"></a>
 
-![https://code.visualstudio.com/](https://img.shields.io/badge/Code-VS%20Code-blue)
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Code-VS%20Code-blue/"></a>
 
-![https://www.atlassian.com/software/jira](https://img.shields.io/badge/Tracking-Jira-blue)
+<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Tracking-Jira-blue"></a>
 
-![https://www.techsmith.com/tutorial-camtasia.html](https://img.shields.io/badge/Video-Camtasia-green)
+<a href="https://www.techsmith.com/tutorial-camtasia.html"><img src="https://img.shields.io/badge/Video-Camtasia-green"></a>
 
 _Tableau, SQL, pandas - used in study projects._
 
@@ -48,7 +48,7 @@ I've always contributed to a variety of volunteer projects, both technical and n
 
 These are some of the projects, which I volunteer to:
 
-|[Hacktoberfest](https://hacktoberfest.digitalocean.com/)|[TED Translator](https://www.ted.com/profiles/2458319/translator)|[Parkrun IE](https://www.parkrun.ie/)|
+|<a href="https://hacktoberfest.digitalocean.com/" target="_blank">Hacktoberfest</a>|[TED Translator](https://www.ted.com/profiles/2458319/translator)|[Parkrun IE](https://www.parkrun.ie/)|
 |--|--|--|
 |![Hacktoberfest](/resources/hacktoberfestlogo2019_300px.png)|![TED](/resources/TEDtalkLogo300x.png)|![parkrun](/resources/parkrun300px.jpeg) |
 
