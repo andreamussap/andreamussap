@@ -2,7 +2,7 @@
 
 I'm a Technical Writer :books: :pencil2: and Data Analyst :bar_chart: :chart_with_upwards_trend: enthusiast. This quote from [Piyanka Jain](https://www.linkedin.com/in/piyanka/) summarizes why I'm interested in learning data analysis -
 
-> Everybody needs data literacy because data is everywhere. It’s the new currency, it's the language of the business. We need to be able to speak that.
+> Anytime you use your phone, look up something online, stream music, shop with a credit card, post on social media, or use GPS to map a route, you're creating data. A digital world and the millions of smart devices inside of it have made the amount of data available truly mind-blowing. (Google Data Analytics Certificate)
 
 I'm a driven and curious 💡 🔎 person, so learning new tools and technologies motivates me, and I aim to apply these learnings to my daily routine.
 
