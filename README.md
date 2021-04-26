@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Technical Writer :books: :pencil2: and Data Analyst :bar_chart: :chart_with_upwards_trend: enthusiast. This quote from [Piyanka Jain](https://www.linkedin.com/in/piyanka/) summarizes why I'm interested in learning data analysis -
+I'm a Technical Writer :books: :pencil2: and Data Analyst :bar_chart: :chart_with_upwards_trend: enthusiast -
 
 > Anytime you use your phone, look up something online, stream music, shop with a credit card, post on social media, or use GPS to map a route, you're creating data. A digital world and the millions of smart devices inside of it have made the amount of data available truly mind-blowing. (Google Data Analytics Certificate)
 
