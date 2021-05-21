@@ -12,7 +12,7 @@ I'm a driven and curious 💡 🔎 person, so learning new tools and technologie
 You can also find me on the following channels:
 
 <a href="https://www.linkedin.com/in/andreamussap/"><img src="https://img.shields.io/badge/andreamussap-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-![Twitter Follow](https://img.shields.io/twitter/follow/andreamussap?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/andreamussap?style=social)](https://twitter.com/andreamussap)
 <a href="https://www.goodreads.com/andreamussap"><img src="https://img.shields.io/badge/GoodReads-andreamussap-yellowgreen"/></a>
 
 ## Languages & Tools 🛠 
