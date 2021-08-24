@@ -24,13 +24,9 @@ You can also find me on the following channels:
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Analytics-pandas-002b80"></a>
 
 <a href="https://github.com/DavidAnson/vscode-markdownlint"><img src="https://img.shields.io/badge/Code-Markdown-white"></a>
-
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Code-VS%20Code-blue/"></a>
-
 <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Tracking-Jira-blue"></a>
-
 <a href="https://www.techsmith.com/tutorial-camtasia.html"><img src="https://img.shields.io/badge/Video-Camtasia-green"></a>
-
 _Tableau, SQL, pandas - used in study projects._
 
 
