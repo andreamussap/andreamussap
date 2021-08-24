@@ -4,7 +4,7 @@ I'm a Technical Writer :books: :pencil2: and Data Analyst :bar_chart: :chart_wit
 
 > _Anytime you use your phone, look up something online, stream music, shop with a credit card, post on social media, or use GPS to map a route, you're creating data. A digital world and the millions of smart devices inside of it have made the amount of data available truly mind-blowing. (Google Data Analytics Certificate)_
 
-I'm a driven and curious 💡 🔎 person, so learning new tools and technologies motivates me, and I aim to apply these learnings to my job.
+I'm a driven and curious person, learning new tools and technologies motivates me, and I aim to apply these learnings to my job.
 
 
 ## Find me 📫
@@ -22,12 +22,12 @@ You can also find me on the following channels:
 <a href="https://public.tableau.com/profile/andrea.mussap#!/"><img src="https://img.shields.io/badge/Analytics-Tableau-blue"></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Analytics-MySQL-orange"></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Analytics-pandas-002b80"></a>
+_Tableau, SQL, pandas - used in study projects._
 
 <a href="https://github.com/DavidAnson/vscode-markdownlint"><img src="https://img.shields.io/badge/Code-Markdown-white"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Code-VS%20Code-blue/"></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Tracking-Jira-blue"></a>
 <a href="https://www.techsmith.com/tutorial-camtasia.html"><img src="https://img.shields.io/badge/Video-Camtasia-green"></a>
-_Tableau, SQL, pandas - used in study projects._
 
 
 ## GitHub stats
