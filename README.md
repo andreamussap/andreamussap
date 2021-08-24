@@ -4,7 +4,7 @@ I'm a Technical Writer :books: :pencil2: and Data Analyst :bar_chart: :chart_wit
 
 > _Anytime you use your phone, look up something online, stream music, shop with a credit card, post on social media, or use GPS to map a route, you're creating data. A digital world and the millions of smart devices inside of it have made the amount of data available truly mind-blowing. (Google Data Analytics Certificate)_
 
-I'm a driven and curious 💡 🔎 person, so learning new tools and technologies motivates me, and I aim to apply these learnings to my daily routine.
+I'm a driven and curious 💡 🔎 person, so learning new tools and technologies motivates me, and I aim to apply these learnings to my job.
 
 
 ## Find me 📫
