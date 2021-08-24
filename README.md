@@ -44,9 +44,14 @@ _Tableau, SQL, pandas - used in study projects._
 
 ## Volunteering
 
-I've always contributed to a variety of volunteer projects, both technical and non-technical. There are many advantages of being a volunteer: contribute your knowledge and learn from peers, give back to the community, help others, having purpose and feeling valued.
+I'm always contributing to volunteer projects, both technical and non-technical. 
 
-These are some of the projects, which I volunteer to:
+There are many advantages of being a volunteer:
+* Contribute your knowledge and learn from peers
+* Give back to the community
+* Having purpose and feeling valued
+
+The following are some of the projects which I volunteer to:
 
 |[Hacktoberfest](https://www.linkedin.com/pulse/hacktoberfest-2020-main-takeaway-andrea-mussap/)|[TED Translator](https://www.ted.com/profiles/2458319/translator)|[Parkrun IE](https://www.parkrun.ie/)|
 |--|--|--|
