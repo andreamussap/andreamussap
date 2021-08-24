@@ -22,6 +22,7 @@ You can also find me on the following channels:
 <a href="https://public.tableau.com/profile/andrea.mussap#!/"><img src="https://img.shields.io/badge/Analytics-Tableau-blue"></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Analytics-MySQL-orange"></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Analytics-pandas-002b80"></a>
+
 _Tableau, SQL, pandas - used in study projects._
 
 <a href="https://github.com/DavidAnson/vscode-markdownlint"><img src="https://img.shields.io/badge/Code-Markdown-white"></a>
