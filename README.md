@@ -18,13 +18,9 @@ You can also find me on the following channels:
 ## Languages & Tools 🛠 
 
 ![](https://img.shields.io/badge/Analytics-Google%20Analytics-yellow)
-
 <a href="https://www.hotjar.com/"><img src="https://img.shields.io/badge/Analytics-Hotjar-red"></a>
-
 <a href="https://public.tableau.com/profile/andrea.mussap#!/"><img src="https://img.shields.io/badge/Analytics-Tableau-blue"></a>
-
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Analytics-MySQL-orange"></a>
-
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Analytics-pandas-002b80"></a>
 
 <a href="https://github.com/DavidAnson/vscode-markdownlint"><img src="https://img.shields.io/badge/Code-Markdown-white"></a>
