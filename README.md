@@ -9,27 +9,11 @@ I'm a driven and curious person, learning new tools and technologies motivates m
 
 ## Find me 📫
 
-You can also find me on the following channels:
-
 <a href="https://www.linkedin.com/in/andreamussap/"><img src="https://img.shields.io/badge/andreamussap-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/andreamussap?style=social)](https://twitter.com/andreamussap)
+
 <a href="https://www.goodreads.com/andreamussap"><img src="https://img.shields.io/badge/GoodReads-andreamussap-yellowgreen"/></a>
-
-## Languages & Tools 🛠 
-
-![](https://img.shields.io/badge/Analytics-Google%20Analytics-yellow)
-<a href="https://www.hotjar.com/"><img src="https://img.shields.io/badge/Analytics-Hotjar-red"></a>
-<a href="https://public.tableau.com/profile/andrea.mussap#!/"><img src="https://img.shields.io/badge/Analytics-Tableau-blue"></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Analytics-MySQL-orange"></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Analytics-pandas-002b80"></a>
-
-_Tableau, SQL, pandas - used in study projects._
-
-<a href="https://github.com/DavidAnson/vscode-markdownlint"><img src="https://img.shields.io/badge/Code-Markdown-white"></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Code-VS%20Code-blue/"></a>
-<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Tracking-Jira-blue"></a>
-<a href="https://www.techsmith.com/tutorial-camtasia.html"><img src="https://img.shields.io/badge/Video-Camtasia-green"></a>
-
 
 ## GitHub stats
 
@@ -37,20 +21,13 @@ _Tableau, SQL, pandas - used in study projects._
 
 ## Volunteering
 
-I'm always contributing to volunteer projects, both technical and non-technical. 
+I like to volunteer with both technical and non-technical projects. There are many advantages of being a volunteer: contribute your knowledge and learn from peers, give back to the community, having purpose and feeling valued.
 
-There are many advantages of being a volunteer:
-* Contribute your knowledge and learn from peers
-* Give back to the community
-* Having purpose and feeling valued
+The following are some of the projects which I participate:
 
-The following are some of the projects which I volunteer to:
-
-|[Hacktoberfest](https://www.linkedin.com/pulse/hacktoberfest-2020-main-takeaway-andrea-mussap/)|[TED Translator](https://www.ted.com/profiles/2458319/translator)|[Parkrun IE](https://www.parkrun.ie/)|
-|--|--|--|
-|![Hacktoberfest](/resources/hacktoberfestlogo2019_300px.png)|![TED](/resources/TEDtalkLogo300x.png)|![parkrun](/resources/parkrun300px.jpeg) |
-
-
+* [Hacktoberfest](https://www.linkedin.com/pulse/hacktoberfest-2020-main-takeaway-andrea-mussap/)
+* [TED Translator](https://www.ted.com/profiles/2458319/translator)
+* [Parkrun IE](https://www.parkrun.ie/)
 
 <!--
 **andreamussap/andreamussap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
